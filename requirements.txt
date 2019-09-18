@@ -1,0 +1,2 @@
+git+git://github.com/superdesk/superdesk-core.git@fb0025e#egg=Superdesk-Core
+-e git+git://github.com/superdesk/newsroom.git@master#egg=Newsroom
