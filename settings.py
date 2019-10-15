@@ -1,15 +1,17 @@
 
 import os
-from newsroom.default_settings import BLUEPRINTS as blueprints, CORE_APPS, CLIENT_CONFIG
+from newsroom.default_settings import CLIENT_CONFIG
 
-if os.environ.get('PUSH'):
-    BLUEPRINTS = blueprints
-else:
-    BLUEPRINTS = [blueprint for blueprint in blueprints if 'push' not in blueprint]
+env = os.environ.get
 
-INSTALLED_APPS = [
+DEBUG=False
 
-]
+MAIL_SERVER = env('MAIL_SERVER', 'localhost')
+MAIL_PORT = int(env('MAIL_PORT', 25))
+MAIL_USE_TLS = env('MAIL_USE_TLS', False)
+MAIL_USE_SSL = env('MAIL_USE_SSL', False)
+MAIL_USERNAME = env('MAIL_USERNAME', '')
+MAIL_PASSWORD = env('MAIL_PASSWORD', '')
 
 CLIENT_TIME_FORMAT = 'HH:mm'
 CLIENT_DATE_FORMAT = 'MMM DD, YYYY'
