@@ -1,2 +1,2 @@
--e git+git://github.com/superdesk/newsroom.git@master#egg=Newsroom
+-e git+git://github.com/superdesk/newsroom.git@1.15#egg=Newsroom
 -e git+git://github.com/superdesk/superdesk-planning.git@master#egg=superdesk-planning
