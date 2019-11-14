@@ -20,6 +20,6 @@ SHOW_USER_REGISTER = True
 COPYRIGHT_HOLDER = 'CP'
 COPYRIGHT_NOTICE = ''
 USAGE_TERMS = ''
-LANGUAGES = ['en']
+LANGUAGES = ['en', 'fr_CA']
 DEFAULT_LANGUAGE = 'en'
 CLIENT_CONFIG['list_animations'] = False
