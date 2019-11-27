@@ -1,0 +1,1530 @@
+# Translators:
+# Simon Peacock <simon.peacock@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Simon Peacock <simon.peacock@gmail.com>, 2019\n"
+"Language-Team: French (Canada) (https://www.transifex.com/sourcefabric/teams/6584/fr_CA/)\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: assets/agenda/actions.js:80
+msgid "Your inquiry has been sent successfully"
+msgstr "Votre demande a été envoyée avec succès"
+
+#: assets/agenda/actions.js:154
+msgid "Dates: {{ dates }}"
+msgstr "Dates: {{ dates }}"
+
+#: assets/agenda/actions.js:155
+msgid "Location: {{ location }}"
+msgstr "Lieu: {{ location }}"
+
+#: assets/agenda/actions.js:156
+msgid "Ednote: {{ ednote }}"
+msgstr "Note de l'éditeur: {{ ednote }}"
+
+#: assets/agenda/actions.js:159 assets/agenda/actions.js:184
+#: assets/agenda/actions.js:189
+msgid "Description: {{ description }}"
+msgstr "Description: {{ description }}"
+
+#: assets/agenda/actions.js:165
+msgid "Contacts"
+msgstr "nom des contacts"
+
+#: assets/agenda/actions.js:167
+msgid "Name: {{ contact }}"
+msgstr "Nom: {{ contact }}"
+
+#: assets/agenda/actions.js:168
+msgid "Organisation: {{ organisation }}"
+msgstr "Organisation: {{ organisation }}"
+
+#: assets/agenda/actions.js:169
+msgid "Email: {{ email }}"
+msgstr "Email: {{ email }}"
+
+#: assets/agenda/actions.js:170
+msgid "Phone: {{ phone }}"
+msgstr "Téléphone: {{ phone }}"
+
+#: assets/agenda/actions.js:171
+msgid "Mobile: {{ mobile }}"
+msgstr "Mobile: {{ mobile }}"
+
+#: assets/agenda/actions.js:177
+msgid "Calendars: {{ calendars }}"
+msgstr "Calendriers: {{ calendars }}"
+
+#: assets/agenda/actions.js:183
+msgid "Planning item"
+msgstr "Élément de planification"
+
+#: assets/agenda/actions.js:186
+msgid "Coverage type: {{ type }}"
+msgstr "Type de couverture: {{ type }}"
+
+#: assets/agenda/actions.js:187
+msgid "Scheduled: {{ schedule }}"
+msgstr "Programmé: {{ schedule }}"
+
+#: assets/agenda/actions.js:188
+msgid "Status: {{ status }}"
+msgstr "Statut: {{ status }}"
+
+#: assets/agenda/actions.js:199 assets/wire/actions.js:141
+msgid "Item copied successfully."
+msgstr "Élément copié avec succès."
+
+#: assets/agenda/actions.js:202 assets/wire/actions.js:144
+msgid "Sorry, Copy is not supported."
+msgstr "Désolé, la copie n'est pas prise en charge."
+
+#: assets/agenda/actions.js:302
+msgid "Started watching items successfully."
+msgstr "Commencé à regarder des éléments avec succès."
+
+#: assets/agenda/actions.js:313
+msgid "Stopped watching items successfully."
+msgstr "Cessé de regarder les éléments avec succès."
+
+#: assets/agenda/actions.js:365 assets/wire/actions.js:282
+msgid "Items were shared successfully."
+msgstr "Les articles ont été partagés avec succès."
+
+#: assets/agenda/actions.js:367 assets/wire/actions.js:284
+msgid "Item was shared successfully."
+msgstr "L'élément a été partagé avec succès."
+
+#: assets/agenda/actions.js:393 assets/wire/actions.js:342
+msgid "Items were bookmarked successfully."
+msgstr "Les articles ont été mis en favori avec succès."
+
+#: assets/agenda/actions.js:395 assets/wire/actions.js:344
+msgid "Item was bookmarked successfully."
+msgstr "L'élément a été marqué avec succès."
+
+#: assets/agenda/actions.js:410 assets/wire/actions.js:359
+msgid "Items were removed from bookmarks successfully."
+msgstr "Les éléments ont été supprimés des signets avec succès."
+
+#: assets/agenda/actions.js:412 assets/wire/actions.js:361
+msgid "Item was removed from bookmarks successfully."
+msgstr "L'élément a été supprimé des signets avec succès."
+
+#: assets/agenda/components/AgendaApp.jsx:56
+msgid "Events"
+msgstr "Événements"
+
+#: assets/agenda/components/AgendaApp.jsx:57
+#: assets/user-profile/components/UserProfileApp.jsx:51
+msgid "My Events"
+msgstr "Mes événements"
+
+#: assets/agenda/components/AgendaApp.jsx:94
+#: assets/agenda/components/AgendaTags.jsx:25
+#: assets/wire/components/PreviewTags.jsx:25
+msgid "Category"
+msgstr "Catégorie"
+
+#: assets/agenda/components/AgendaApp.jsx:98
+msgid "Subject"
+msgstr "Matière"
+
+#: assets/agenda/components/AgendaApp.jsx:102
+msgid "News Value"
+msgstr "Valeur de la nouvelle"
+
+#: assets/agenda/components/AgendaApp.jsx:106
+msgid "Place"
+msgstr "Endroit"
+
+#: assets/agenda/components/AgendaApp.jsx:129
+#: assets/am-news/components/AmNewsApp.jsx:97
+#: assets/wire/components/WireApp.jsx:85
+msgid "Close filter panel"
+msgstr "Fermer le panneau de filtrage"
+
+#: assets/agenda/components/AgendaApp.jsx:136
+#: assets/am-news/components/AmNewsApp.jsx:104
+#: assets/wire/components/WireApp.jsx:97
+msgid "Open filter panel"
+msgstr "Panneau filtrant ouvert"
+
+#: assets/agenda/components/AgendaAttachments.jsx:35
+msgid "Size:"
+msgstr "Taille:"
+
+#: assets/agenda/components/AgendaAttachments.jsx:37
+msgid "MIME type:"
+msgstr "Type MIME:"
+
+#: assets/agenda/components/AgendaCalendarButton.jsx:51
+#: assets/agenda/components/AgendaDateButtons.jsx:15
+#: assets/company-reports/components/ProductStories.jsx:26
+#: assets/wire/components/filters/NavCreatedPicker.jsx:9
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: assets/agenda/components/AgendaCoverageExistsFilter.jsx:7
+msgid "Any coverage status"
+msgstr "Tout statut de couverture"
+
+#: assets/agenda/components/AgendaCoverageExistsFilter.jsx:30
+msgid "Coverage is planned"
+msgstr "La couverture est prévue"
+
+#: assets/agenda/components/AgendaCoverageExistsFilter.jsx:36
+msgid "Coverage not planned"
+msgstr "Couverture non prévue"
+
+#: assets/agenda/components/AgendaCoverageRequest.jsx:39
+#: assets/missing-translations.js:4
+msgid "Coverage inquiries"
+msgstr "Enquêtes de couverture"
+
+#: assets/agenda/components/AgendaCoverageRequest.jsx:46
+msgid "your inquiry"
+msgstr "votre demande"
+
+#: assets/agenda/components/AgendaCoverageRequest.jsx:56
+#: assets/components/Modal.jsx:127
+#: assets/user-profile/components/profile/UserProfile.jsx:143
+#: assets/wire/components/SelectedItemsBar.jsx:41
+msgid "Cancel"
+msgstr "Annuler"
+
+#: assets/agenda/components/AgendaCoverageRequest.jsx:62
+msgid "Submit inquiry"
+msgstr "Soumettre la demande"
+
+#: assets/agenda/components/AgendaCoverages.jsx:31
+msgid "expected"
+msgstr "attendue"
+
+#: assets/agenda/components/AgendaCoverages.jsx:41
+msgid "Source"
+msgstr "La source"
+
+#: assets/agenda/components/AgendaDateButtons.jsx:36
+msgid "D"
+msgstr "D"
+
+#: assets/agenda/components/AgendaDateButtons.jsx:43
+msgid "W"
+msgstr "W"
+
+#: assets/agenda/components/AgendaDateButtons.jsx:50
+msgid "M"
+msgstr "M"
+
+#: assets/agenda/components/AgendaDetailCoverages.jsx:14
+#: assets/agenda/components/AgendaPreviewCoverages.jsx:15
+msgid "Coverages"
+msgstr "Des couvertures"
+
+#: assets/agenda/components/AgendaEdNote.jsx:15
+msgid "Reason"
+msgstr "Raison"
+
+#: assets/agenda/components/AgendaEdNote.jsx:15
+msgid "Editorial Note"
+msgstr "Note éditoriale"
+
+#: assets/agenda/components/AgendaFeaturedStoriesToogle.jsx:10
+msgid "Top/Featured Stories"
+msgstr "Histoires Top / En Vedette"
+
+#: assets/agenda/components/AgendaFilters.jsx:10
+msgid "Any calendar"
+msgstr "Tout calendrier"
+
+#: assets/agenda/components/AgendaFilters.jsx:15
+msgid "Any location"
+msgstr "N'importe quel endroit"
+
+#: assets/agenda/components/AgendaFilters.jsx:21
+msgid "Any region"
+msgstr "N'importe quelle région"
+
+#: assets/agenda/components/AgendaFilters.jsx:26
+msgid "Any coverage type"
+msgstr "Tout type de couverture"
+
+#: assets/agenda/components/AgendaInternalNote.jsx:12
+msgid "Internal Note"
+msgstr "Note interne"
+
+#: assets/agenda/components/AgendaItemDetails.jsx:89
+#: assets/agenda/components/AgendaPreviewAttachments.jsx:16
+msgid "Attachments"
+msgstr "Les pièces jointes"
+
+#: assets/agenda/components/AgendaItemTimeUpdater.jsx:73
+msgid "Posted"
+msgstr "Publié"
+
+#: assets/agenda/components/AgendaItemTimeUpdater.jsx:77
+msgid "Updated"
+msgstr "Mis à jour"
+
+#: assets/agenda/components/AgendaItemTimeUpdater.jsx:82
+msgid "just now"
+msgstr "juste maintenant"
+
+#: assets/agenda/components/AgendaItemTimeUpdater.jsx:84
+msgid "minute(s) ago"
+msgstr "il y a quelques minutes"
+
+#: assets/agenda/components/AgendaList.jsx:284
+#: assets/am-news/components/AmNewsList.jsx:188
+#: assets/wire/components/ItemsList.jsx:165
+msgid "No items found."
+msgstr "Aucun élément trouvé."
+
+#: assets/agenda/components/AgendaListItemIcons.jsx:35
+msgid "{{ type }} coverage {{ status }}"
+msgstr "{{ type }} couverture {{ status }}"
+
+#: assets/agenda/components/AgendaListItemIcons.jsx:42
+msgid "{{ type }} coverage {{ status }}, expected {{date}} at {{time}}"
+msgstr "{{ type }} couverture {{ status }}, attendu {{date}} à {{time}}"
+
+#: assets/agenda/components/AgendaListItemIcons.jsx:51
+msgid "{{ type }} coverage cancelled"
+msgstr "{{ type }} couverture annulée"
+
+#: assets/agenda/components/AgendaListItemIcons.jsx:57
+msgid "{{ type }} coverage available"
+msgstr "{{ type }} couverture disponible"
+
+#: assets/agenda/components/AgendaListItemLabels.jsx:14
+msgid "postponed"
+msgstr "reporté"
+
+#: assets/agenda/components/AgendaListItemLabels.jsx:18
+#: assets/agenda/utils.js:68
+msgid "cancelled"
+msgstr "annulé"
+
+#: assets/agenda/components/AgendaMetaTime.jsx:61
+#: assets/components/cards/render/EventsTwoByTwoCard.jsx:33
+msgid "to"
+msgstr "à"
+
+#: assets/agenda/components/AgendaPreviewCoverages.jsx:19
+msgid "Previous Coverages"
+msgstr "Couverture précédente"
+
+#: assets/agenda/components/AgendaTags.jsx:24
+#: assets/wire/components/PreviewTags.jsx:23
+msgid "Metadata"
+msgstr "Métadonnées"
+
+#: assets/agenda/components/AgendaTypeAheadFilter.jsx:80
+msgid "Choose a location..."
+msgstr "Choisissez un emplacement ..."
+
+#: assets/agenda/components/CoverageItemStatus.jsx:40
+#: assets/companies/components/CompanyList.jsx:27
+#: assets/navigations/components/NavigationList.jsx:24
+#: assets/products/components/ProductList.jsx:23
+#: assets/section-filters/components/SectionFilterList.jsx:23
+#: assets/users/components/UsersList.jsx:30
+msgid "Status"
+msgstr "Statut"
+
+#: assets/agenda/components/CoverageItemStatus.jsx:41
+msgid "coverage {{ state }} "
+msgstr "couverture {{ state }}"
+
+#: assets/agenda/components/CoverageItemStatus.jsx:52
+#: assets/agenda/components/CoverageItemStatus.jsx:67
+msgid "Open in new tab"
+msgstr "Ouvrir dans un nouvel onglet"
+
+#: assets/agenda/components/CoverageItemStatus.jsx:53
+#: assets/agenda/components/CoverageItemStatus.jsx:68
+#: assets/agenda/components/CoverageItemStatus.jsx:73
+msgid "View Content"
+msgstr "Voir le contenu"
+
+#: assets/agenda/item-actions.js:12
+msgid "Watch"
+msgstr "Regarder"
+
+#: assets/agenda/item-actions.js:19
+msgid "Stop watching"
+msgstr "Arrête de regarder"
+
+#: assets/agenda/utils.js:56 assets/agenda/utils.js:57
+msgid "not planned"
+msgstr "pas prévu"
+
+#: assets/agenda/utils.js:58 assets/agenda/utils.js:65
+msgid "planned"
+msgstr "prévue"
+
+#: assets/agenda/utils.js:59 assets/agenda/utils.js:60
+msgid "on merit"
+msgstr "au mérite"
+
+#: assets/agenda/utils.js:61
+msgid "on request"
+msgstr "sur demande"
+
+#: assets/agenda/utils.js:66
+msgid "in progress"
+msgstr "en cours"
+
+#: assets/agenda/utils.js:67
+msgid "available"
+msgstr "disponible"
+
+#: assets/am-news/utils.js:37
+msgid "Text"
+msgstr "Texte"
+
+#: assets/am-news/utils.js:41
+msgid "Fuel"
+msgstr "Carburant"
+
+#: assets/am-news/utils.js:43
+msgid "Weather"
+msgstr "La météo"
+
+#: assets/am-news/utils.js:48
+msgid "Alert"
+msgstr "Alerte"
+
+#: assets/am-news/utils.js:50
+msgid "Headlines"
+msgstr "Titres"
+
+#: assets/am-news/utils.js:52
+msgid "Quote"
+msgstr "Citation"
+
+#: assets/cards/actions.js:93
+msgid "Invalid Url."
+msgstr "URL invalide."
+
+#: assets/cards/actions.js:98
+msgid "Invalid count of media."
+msgstr "Nombre de médias non valide."
+
+#: assets/cards/actions.js:105
+msgid "Count of media should be greater than zero."
+msgstr "Le nombre de médias doit être supérieur à zéro."
+
+#: assets/cards/actions.js:111
+#: assets/components/cards/edit/ConfigExternalMedia.jsx:28
+msgid "Total media count across all media config should be between 1 and 4."
+msgstr ""
+"Le nombre total de médias dans toutes les configurations de médias doit être"
+" compris entre 1 et 4."
+
+#: assets/cards/actions.js:116
+msgid "Failed to update Card."
+msgstr "Échec de la mise à jour de la carte."
+
+#: assets/cards/actions.js:136
+msgid "Card updated successfully"
+msgstr "Carte mise à jour avec succès"
+
+#: assets/cards/actions.js:138
+msgid "Card created successfully"
+msgstr "Carte créée avec succès"
+
+#: assets/cards/actions.js:160
+msgid "Card deleted successfully"
+msgstr "Carte supprimée avec succès"
+
+#: assets/cards/components/CardList.jsx:23
+#: assets/cards/components/EditCard.jsx:61
+msgid "Label"
+msgstr "Étiquette"
+
+#: assets/cards/components/CardList.jsx:24
+#: assets/cards/components/EditCard.jsx:68
+#: assets/companies/components/CompanyList.jsx:25
+msgid "Type"
+msgstr "Type"
+
+#: assets/cards/components/CardList.jsx:25
+#: assets/company-reports/components/ProductStories.jsx:24
+#: assets/components/cards/edit/ConfigProduct.jsx:28
+#: assets/products/components/EditProduct.jsx:25
+#: assets/products/components/ProductsApp.jsx:27
+msgid "Product"
+msgstr "Produit"
+
+#: assets/cards/components/CardList.jsx:26
+#: assets/cards/components/EditCard.jsx:77
+msgid "Order"
+msgstr "Ordre"
+
+#: assets/cards/components/CardList.jsx:27
+#: assets/companies/components/CompanyList.jsx:31
+#: assets/navigations/components/NavigationList.jsx:25
+#: assets/products/components/ProductList.jsx:27
+#: assets/section-filters/components/SectionFilterList.jsx:26
+#: assets/users/components/UsersList.jsx:31
+msgid "Created On"
+msgstr "Créé sur"
+
+#: assets/cards/components/Cards.jsx:35
+msgid "Please provide card label"
+msgstr "Veuillez fournir une étiquette de carte"
+
+#: assets/cards/components/Cards.jsx:41
+msgid "Please provide start date"
+msgstr "Veuillez indiquer la date de début"
+
+#: assets/cards/components/Cards.jsx:62
+msgid "Would you like to delete card: {{label}}"
+msgstr "Voulez-vous supprimer la carte: {{label}}"
+
+#: assets/cards/components/CardsApp.jsx:27
+msgid "Card"
+msgstr "Carte"
+
+#: assets/cards/components/EditCard.jsx:88
+#: assets/companies/components/CompanyPermissions.jsx:121
+#: assets/companies/components/EditCompany.jsx:169
+#: assets/components/EditPanel.jsx:80 assets/components/Modal.jsx:126
+#: assets/general-settings/components/GeneralSettingsApp.jsx:65
+#: assets/item-actions.js:54
+#: assets/navigations/components/EditNavigation.jsx:118
+#: assets/products/components/EditProduct.jsx:172
+#: assets/section-filters/components/EditSectionFilter.jsx:85
+#: assets/users/components/EditUser.jsx:121
+msgid "Save"
+msgstr "sauver"
+
+#: assets/cards/components/EditCard.jsx:93
+#: assets/companies/components/EditCompany.jsx:174
+#: assets/navigations/components/EditNavigation.jsx:123
+#: assets/products/components/EditProduct.jsx:177
+#: assets/section-filters/components/EditSectionFilter.jsx:90
+#: assets/user-profile/components/topics/FollowedTopics.jsx:89
+#: assets/users/components/EditUser.jsx:127
+msgid "Delete"
+msgstr "Effacer"
+
+#: assets/companies/actions.js:113 assets/companies/actions.js:148
+msgid "Company updated successfully"
+msgstr "Société mise à jour avec succès"
+
+#: assets/companies/actions.js:115
+msgid "Company created successfully"
+msgstr "Société créée avec succès"
+
+#: assets/companies/actions.js:169
+msgid "Company deleted successfully"
+msgstr "Société supprimée avec succès"
+
+#: assets/companies/components/Companies.jsx:53
+msgid "Would you like to delete company: {{name}}"
+msgstr "Voulez-vous supprimer la société: {{name}}"
+
+#: assets/companies/components/CompaniesApp.jsx:25
+#: assets/companies/components/EditCompany.jsx:20
+#: assets/company-reports/components/Company.jsx:78
+#: assets/company-reports/components/CompanyProducts.jsx:32
+#: assets/company-reports/components/CompanyReportsApp.jsx:17
+#: assets/company-reports/components/CompanySavedSearches.jsx:17
+#: assets/company-reports/components/UserSavedSearches.jsx:21
+#: assets/users/components/EditUser.jsx:82
+#: assets/users/components/UsersList.jsx:29
+msgid "Company"
+msgstr "Compagnie"
+
+#: assets/companies/components/CompanyList.jsx:24
+#: assets/companies/components/EditCompany.jsx:93
+#: assets/components/FollowTopicModal.jsx:59
+#: assets/navigations/components/EditNavigation.jsx:82
+#: assets/navigations/components/NavigationList.jsx:22
+#: assets/products/components/EditProduct.jsx:106
+#: assets/products/components/ProductList.jsx:22
+#: assets/section-filters/components/EditSectionFilter.jsx:34
+#: assets/section-filters/components/SectionFilterList.jsx:22
+#: assets/users/components/UsersList.jsx:23
+msgid "Name"
+msgstr "Nom"
+
+#: assets/companies/components/CompanyList.jsx:26
+#: assets/companies/components/EditCompany.jsx:116
+msgid "Superdesk Subscriber Id"
+msgstr "Identifiant d'abonné Superdesk"
+
+#: assets/companies/components/CompanyList.jsx:28
+#: assets/company-reports/components/Company.jsx:37
+msgid "Contact"
+msgstr "Contact"
+
+#: assets/companies/components/CompanyList.jsx:29
+#: assets/companies/components/EditCompany.jsx:123
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: assets/companies/components/CompanyList.jsx:30
+#: assets/companies/components/EditCompany.jsx:144
+msgid "Country"
+msgstr "Pays"
+
+#: assets/companies/components/CompanyList.jsx:32
+msgid "Expires On"
+msgstr "Expire le"
+
+#: assets/companies/components/CompanyListItem.jsx:15
+#: assets/companies/components/EditCompany.jsx:160
+#: assets/navigations/components/EditNavigation.jsx:96
+#: assets/navigations/components/NavigationListItem.jsx:13
+#: assets/products/components/EditProduct.jsx:162
+#: assets/products/components/ProductListItem.jsx:12
+#: assets/section-filters/components/EditSectionFilter.jsx:76
+#: assets/section-filters/components/SectionFilterListItem.jsx:12
+#: assets/users/components/EditUser.jsx:97
+#: assets/users/components/UserListItem.jsx:20
+msgid "Enabled"
+msgstr "Activée"
+
+#: assets/companies/components/CompanyListItem.jsx:15
+#: assets/company-reports/components/Company.jsx:57
+#: assets/navigations/components/NavigationListItem.jsx:13
+#: assets/products/components/ProductListItem.jsx:12
+#: assets/section-filters/components/SectionFilterListItem.jsx:12
+#: assets/users/components/UserListItem.jsx:20
+msgid "Disabled"
+msgstr "désactivé"
+
+#: assets/companies/components/CompanyPermissions.jsx:62
+msgid "General"
+msgstr "Générale"
+
+#: assets/companies/components/CompanyPermissions.jsx:67
+msgid "Archive access"
+msgstr "Accès aux archives"
+
+#: assets/companies/components/CompanyPermissions.jsx:75
+msgid "Events Only Access"
+msgstr "Accès aux événements uniquement"
+
+#: assets/companies/components/CompanyPermissions.jsx:84
+msgid "Sections"
+msgstr "Sections"
+
+#: assets/companies/components/CompanyPermissions.jsx:100
+#: assets/company-reports/components/Company.jsx:24
+#: assets/navigations/components/EditNavigation.jsx:22
+msgid "Products"
+msgstr "Des produits"
+
+#: assets/companies/components/EditCompany.jsx:21
+msgid "Users"
+msgstr "Utilisatrices"
+
+#: assets/companies/components/EditCompany.jsx:22
+msgid "Permissions"
+msgstr "Les permissions"
+
+#: assets/companies/components/EditCompany.jsx:37
+msgid "There are no users in the company."
+msgstr "Il n'y a pas d'utilisateurs dans l'entreprise."
+
+#: assets/companies/components/EditCompany.jsx:100
+msgid "Company Type"
+msgstr "Type de compagnie"
+
+#: assets/companies/components/EditCompany.jsx:109
+msgid "Company Url"
+msgstr "URL de la société"
+
+#: assets/companies/components/EditCompany.jsx:130
+msgid "Contact Name"
+msgstr "Nom du contact"
+
+#: assets/companies/components/EditCompany.jsx:137
+msgid "Contact Email"
+msgstr "Email du contact"
+
+#: assets/companies/components/EditCompany.jsx:152
+#: assets/company-reports/components/Company.jsx:78
+msgid "Expiry Date"
+msgstr "Date d'expiration"
+
+#: assets/companies/utils.js:4
+msgid "Australia"
+msgstr "Australie"
+
+#: assets/companies/utils.js:5
+msgid "New Zealand"
+msgstr "Nouvelle-Zélande"
+
+#: assets/companies/utils.js:6
+msgid "Finland"
+msgstr "Finlande"
+
+#: assets/companies/utils.js:7
+msgid "Other"
+msgstr "Autre"
+
+#: assets/company-reports/components/Company.jsx:12
+msgid "AM"
+msgstr "UN M."
+
+#: assets/company-reports/components/Company.jsx:38
+msgid "Tel"
+msgstr "Téléphone"
+
+#: assets/company-reports/components/Company.jsx:48
+msgid "User Accounts"
+msgstr "Comptes utilisateur"
+
+#: assets/company-reports/components/Company.jsx:57
+msgid "Active"
+msgstr "Actif"
+
+#: assets/company-reports/components/Company.jsx:59
+msgid "Unspecified"
+msgstr "Non spécifié"
+
+#: assets/company-reports/components/Company.jsx:78
+msgid "Is Active"
+msgstr "C'est actif"
+
+#: assets/company-reports/components/Company.jsx:78
+msgid "Created"
+msgstr "Établi"
+
+#: assets/company-reports/components/CompanyProducts.jsx:10
+msgid "Product name"
+msgstr "Nom du produit"
+
+#: assets/company-reports/components/CompanyProducts.jsx:11
+msgid "Is enabled"
+msgstr "activée"
+
+#: assets/company-reports/components/CompanyProducts.jsx:12
+#: assets/products/components/EditProduct.jsx:133
+#: assets/products/components/ProductList.jsx:25
+#: assets/section-filters/components/EditSectionFilter.jsx:61
+#: assets/section-filters/components/SectionFilterList.jsx:25
+msgid "Query"
+msgstr "Requete"
+
+#: assets/company-reports/components/CompanyProducts.jsx:13
+msgid "sd_product_id"
+msgstr "sd_product_id"
+
+#: assets/company-reports/components/CompanyProducts.jsx:32
+#: assets/company-reports/components/CompanySavedSearches.jsx:17
+#: assets/company-reports/components/ProductStories.jsx:25
+#: assets/company-reports/components/UserSavedSearches.jsx:20
+msgid "Is Enabled"
+msgstr "Est autorisé"
+
+#: assets/company-reports/components/CompanyProducts.jsx:32
+msgid "Number Of Products"
+msgstr "Nombre de produits"
+
+#: assets/company-reports/components/CompanyReportsApp.jsx:13
+msgid "Saved searches per company"
+msgstr "Recherches sauvegardées par entreprise"
+
+#: assets/company-reports/components/CompanyReportsApp.jsx:14
+msgid "Saved searches per user"
+msgstr "Recherches sauvegardées par utilisateur"
+
+#: assets/company-reports/components/CompanyReportsApp.jsx:15
+msgid "Products per company"
+msgstr "Produits par entreprise"
+
+#: assets/company-reports/components/CompanyReportsApp.jsx:16
+msgid "Stories per product"
+msgstr "Histoires par produit"
+
+#: assets/company-reports/components/CompanyReportsApp.jsx:53
+msgid "Run report"
+msgstr "Rapport d'exécution"
+
+#: assets/company-reports/components/CompanyReportsApp.jsx:60
+msgid "Print report"
+msgstr "Imprimer le rapport"
+
+#: assets/company-reports/components/CompanySavedSearches.jsx:17
+#: assets/company-reports/components/UserSavedSearches.jsx:22
+msgid "Number Of Saved Searches"
+msgstr "Nombre de recherches sauvegardées"
+
+#: assets/company-reports/components/ProductStories.jsx:27
+msgid "Last 24 hours"
+msgstr "Dernières 24 heures"
+
+#: assets/company-reports/components/ProductStories.jsx:28
+#: assets/wire/components/filters/NavCreatedPicker.jsx:10
+msgid "This week"
+msgstr "Cette semaine"
+
+#: assets/company-reports/components/ProductStories.jsx:29
+msgid "Last 7 days"
+msgstr "Les 7 derniers jours"
+
+#: assets/company-reports/components/ProductStories.jsx:30
+#: assets/wire/components/filters/NavCreatedPicker.jsx:11
+msgid "This month"
+msgstr "Ce mois-ci"
+
+#: assets/company-reports/components/ProductStories.jsx:31
+msgid "Previous month"
+msgstr "Le mois précédent"
+
+#: assets/company-reports/components/ProductStories.jsx:32
+msgid "Last 6 months"
+msgstr "6 derniers mois"
+
+#: assets/company-reports/components/UserSavedSearches.jsx:19
+#: assets/users/components/UsersApp.jsx:26
+msgid "User"
+msgstr "Utilisatrice"
+
+#: assets/components/cards/edit/ConfigEvent.jsx:26
+msgid "Headline"
+msgstr "Gros titre"
+
+#: assets/components/cards/edit/ConfigEvent.jsx:33
+msgid "Abstract"
+msgstr "résumé"
+
+#: assets/components/cards/edit/ConfigEvent.jsx:40
+msgid "Start Date"
+msgstr "Date de début"
+
+#: assets/components/cards/edit/ConfigEvent.jsx:48
+msgid "End Date"
+msgstr "Date de fin"
+
+#: assets/components/cards/edit/ConfigEvent.jsx:56
+msgid "Location"
+msgstr "Emplacement"
+
+#: assets/components/cards/edit/ConfigEvent.jsx:63
+msgid "Image"
+msgstr "Image"
+
+#: assets/components/cards/edit/ConfigExternalMedia.jsx:16
+msgid "More button label"
+msgstr "Plus d'étiquette de bouton"
+
+#: assets/components/cards/edit/ConfigExternalMedia.jsx:23
+msgid "More button url"
+msgstr "Plus d'URL de bouton"
+
+#: assets/components/cards/edit/ConfigExternalMedia.jsx:40
+msgid "External url to fetch media"
+msgstr "URL externe pour récupérer le média"
+
+#: assets/components/cards/edit/ConfigExternalMedia.jsx:48
+msgid "Media Count"
+msgstr "Nombre de médias"
+
+#: assets/components/cards/edit/ConfigNavigation.jsx:55
+msgid "Select a navigation."
+msgstr "Sélectionnez une navigation."
+
+#: assets/components/cards/edit/ConfigNavigation.jsx:60
+msgid "Navigation is already added."
+msgstr "La navigation est déjà ajoutée."
+
+#: assets/components/cards/edit/ConfigNavigation.jsx:91
+msgid "Select Navigation"
+msgstr "Sélectionnez la navigation"
+
+#: assets/components/cards/edit/ConfigNavigation.jsx:99
+msgid "Add"
+msgstr "Ajouter"
+
+#: assets/components/cards/render/CardMeta.jsx:20
+#: assets/wire/components/ItemVersion.jsx:17
+#: assets/wire/components/WireListItem.jsx:102
+#: assets/wire/components/WireListItem.jsx:117
+msgid "words"
+msgstr "mots"
+
+#: assets/components/cards/render/EventsTwoByTwoCard.jsx:26
+msgid "all"
+msgstr "toute"
+
+#: assets/components/cards/render/MoreNewsButton.jsx:12
+msgid "More news"
+msgstr "Plus de nouvelles"
+
+#: assets/components/cards/render/NavigationCard.jsx:34
+msgid "Stories"
+msgstr "Histoires"
+
+#: assets/components/cards/utils.js:23
+msgid "6-text-only"
+msgstr "6 texte seulement"
+
+#: assets/components/cards/utils.js:30
+msgid "4-picture-text"
+msgstr "4 texte de l'image"
+
+#: assets/components/cards/utils.js:37
+msgid "4-media-gallery"
+msgstr "4 médiathèque"
+
+#: assets/components/cards/utils.js:44
+msgid "4-photo-gallery"
+msgstr "4 galerie photo"
+
+#: assets/components/cards/utils.js:51
+msgid "1x1-top-news"
+msgstr "1x1 top news"
+
+#: assets/components/cards/utils.js:58
+msgid "2x2-top-news"
+msgstr "2x2 top news"
+
+#: assets/components/cards/utils.js:65
+msgid "3-text-only"
+msgstr "3 texte seulement"
+
+#: assets/components/cards/utils.js:72
+msgid "3-picture-text"
+msgstr "3 texte de l'image"
+
+#: assets/components/cards/utils.js:79
+msgid "4-text-only"
+msgstr "4 texte seulement"
+
+#: assets/components/cards/utils.js:86
+msgid "2x2-events"
+msgstr "2x2 événements"
+
+#: assets/components/cards/utils.js:93
+msgid "6 Navigation Tiles Per Row"
+msgstr "6 tuiles de navigation par rangée"
+
+#: assets/components/FollowTopicModal.jsx:51
+msgid "Save event search"
+msgstr "Enregistrer la recherche d'événement"
+
+#: assets/components/FollowTopicModal.jsx:51
+#: assets/wire/components/SearchResultsInfo.jsx:71
+msgid "Save as topic"
+msgstr "Enregistrer comme sujet"
+
+#: assets/components/FollowTopicModal.jsx:66
+msgid "Send me notifications"
+msgstr "M'envoyer des notifications"
+
+#: assets/components/ListBar.jsx:17
+msgid "New {{ buttonName }}"
+msgstr "Nouveau {{ buttonName }}"
+
+#: assets/components/ListViewOptions.jsx:14
+msgid "Large list"
+msgstr "Grande liste"
+
+#: assets/components/ListViewOptions.jsx:15
+msgid "Compact list"
+msgstr "Liste compacte"
+
+#: assets/components/ListViewOptions.jsx:57
+#: assets/components/ListViewOptions.jsx:62
+msgid "Change view"
+msgstr "Change de vue"
+
+#: assets/components/NotificationList.jsx:53
+#: assets/components/NotificationList.jsx:60
+msgid "Notifications"
+msgstr "Les notifications"
+
+#: assets/components/NotificationList.jsx:63
+msgid "Clear All"
+msgstr "Tout effacer"
+
+#: assets/components/NotificationListItem.jsx:9
+msgid "An event you are watching has been updated"
+msgstr "Un événement que vous regardez a été mis à jour"
+
+#: assets/components/NotificationListItem.jsx:15
+msgid "A story you downloaded has been updated"
+msgstr "Une histoire que vous avez téléchargée a été mise à jour"
+
+#: assets/components/NotificationListItem.jsx:27
+#: assets/user-profile/components/topics/FollowedTopics.jsx:46
+msgid "Created on"
+msgstr "Créé sur"
+
+#: assets/components/SearchBar.jsx:51 assets/components/SearchBar.jsx:52
+msgid "Search for..."
+msgstr "Rechercher..."
+
+#: assets/components/SearchBar.jsx:60
+#: assets/wire/components/filters/FiltersTab.jsx:91
+msgid "Search"
+msgstr "Chercher"
+
+#: assets/components/ShareItemModal.jsx:61
+msgid "Share Item"
+msgstr "Partager l'article"
+
+#: assets/components/ShareItemModal.jsx:61 assets/item-actions.js:25
+#: assets/user-profile/components/topics/FollowedTopics.jsx:84
+msgid "Share"
+msgstr "Partager"
+
+#: assets/components/ShareItemModal.jsx:64
+msgid "People"
+msgstr "Personnes"
+
+#: assets/components/ShareItemModal.jsx:75
+#: assets/wire/components/SelectedItemsBar.jsx:44
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+#: assets/components/ShareItemModal.jsx:85
+msgid "Message"
+msgstr "Message"
+
+#: assets/general-settings/actions.js:14
+msgid "Settings were updated successfully."
+msgstr "Les paramètres ont été mis à jour avec succès."
+
+#: assets/home/components/HomeApp.jsx:118
+#: assets/market-place/components/MarketPlaceApp.jsx:34
+msgid "Warning"
+msgstr "Attention"
+
+#: assets/home/components/HomeApp.jsx:118
+msgid "There's no card defined for home page!"
+msgstr "Il n'y a pas de carte définie pour la page d'accueil!"
+
+#: assets/item-actions.js:19
+msgid "Open"
+msgstr "Ouverte"
+
+#: assets/item-actions.js:34
+msgid "Print"
+msgstr "Impression"
+
+#: assets/item-actions.js:40
+msgid "Copy"
+msgstr "Copie"
+
+#: assets/item-actions.js:46 assets/ui/components/ArticleVideo.jsx:16
+#: assets/wire/components/DownloadItemsModal.jsx:33
+msgid "Download"
+msgstr "Télécharger"
+
+#: assets/item-actions.js:62
+msgid "Unsave"
+msgstr "Non sauvegardé"
+
+#: assets/layout/components/BaseApp.jsx:26
+msgid "Topics"
+msgstr "Les sujets"
+
+#: assets/layout/components/BaseApp.jsx:27
+#: assets/user-profile/components/UserProfileApp.jsx:42
+msgid "My Topics"
+msgstr "Mes sujets"
+
+#: assets/layout/components/BaseApp.jsx:28
+msgid "Filters"
+msgstr "Les filtres"
+
+#: assets/market-place/components/MarketPlaceApp.jsx:34
+msgid "There's no navigations defined!"
+msgstr "Il n'y a pas de navigation définie!"
+
+#: assets/missing-translations.js:3
+msgid "ALL DAY"
+msgstr "TOUTE LA JOURNÉE"
+
+#: assets/missing-translations.js:5
+msgid "Department"
+msgstr "département"
+
+#: assets/missing-translations.js:6
+msgid "Genre"
+msgstr "Genre"
+
+#: assets/missing-translations.js:7
+msgid "Version"
+msgstr "Version"
+
+#: assets/missing-translations.js:8
+msgid "Premium"
+msgstr "Prime"
+
+#: assets/missing-translations.js:9
+msgid "Non-premium"
+msgstr "Non premium"
+
+#: assets/missing-translations.js:10
+msgid "Non-media"
+msgstr "Non-média"
+
+#: assets/missing-translations.js:11
+msgid "News only filter"
+msgstr "Filtrer uniquement les nouvelles"
+
+#: assets/missing-translations.js:12
+msgid "Time limit for Wire products (in days)"
+msgstr "Délai pour les produits en fil (en jours)"
+
+#: assets/missing-translations.js:13
+msgid "New company"
+msgstr "Nouvelle compagnie"
+
+#: assets/missing-translations.js:14
+msgid "New user"
+msgstr "Nouvel utilisateur"
+
+#: assets/missing-translations.js:15
+msgid "New navigation"
+msgstr "Nouvelle navigation"
+
+#: assets/missing-translations.js:16
+msgid "New section filter"
+msgstr "Nouveau filtre de section"
+
+#: assets/missing-translations.js:17
+msgid "New card"
+msgstr "Nouvelle carte"
+
+#: assets/navigations/actions.jsx:97 assets/navigations/actions.jsx:153
+msgid "Navigation updated successfully"
+msgstr "Navigation mise à jour avec succès"
+
+#: assets/navigations/actions.jsx:99
+msgid "Navigation created successfully"
+msgstr "Navigation créée avec succès"
+
+#: assets/navigations/actions.jsx:121
+msgid "Navigation deleted successfully"
+msgstr "Navigation supprimée avec succès"
+
+#: assets/navigations/components/EditNavigation.jsx:21
+#: assets/navigations/components/NavigationsApp.jsx:28
+#: assets/products/components/EditProduct.jsx:27
+msgid "Navigation"
+msgstr "La navigation"
+
+#: assets/navigations/components/EditNavigation.jsx:89
+#: assets/navigations/components/NavigationList.jsx:23
+#: assets/products/components/EditProduct.jsx:113
+#: assets/section-filters/components/EditSectionFilter.jsx:41
+msgid "Description"
+msgstr "La description"
+
+#: assets/navigations/components/EditNavigation.jsx:101
+msgid "Tile Images"
+msgstr "Mosaïque des images"
+
+#: assets/navigations/components/EditNavigation.jsx:107
+msgid "Upload Image"
+msgstr "Télécharger une image"
+
+#: assets/navigations/components/Navigations.jsx:57
+msgid "Would you like to delete navigation: {{name}}"
+msgstr "Voulez-vous supprimer la navigation: {{name}}"
+
+#: assets/notifications/actions.js:40
+msgid "Notification cleared successfully"
+msgstr "Notification effacée avec succès"
+
+#: assets/notifications/actions.js:58
+msgid "Notifications cleared successfully"
+msgstr "Notifications effacées avec succès"
+
+#: assets/products/actions.js:96 assets/products/actions.js:151
+#: assets/products/actions.js:181
+msgid "Product updated successfully"
+msgstr "Produit mis à jour avec succès"
+
+#: assets/products/actions.js:98
+msgid "Product created successfully"
+msgstr "Produit créé avec succès"
+
+#: assets/products/actions.js:120
+msgid "Product deleted successfully"
+msgstr "Produit supprimé avec succès"
+
+#: assets/products/components/EditProduct.jsx:26
+msgid "Companies"
+msgstr "Entreprises"
+
+#: assets/products/components/EditProduct.jsx:57
+msgid "Test product"
+msgstr "Tester le produit"
+
+#: assets/products/components/EditProduct.jsx:119
+#: assets/products/components/ProductList.jsx:24
+#: assets/section-filters/components/EditSectionFilter.jsx:47
+#: assets/section-filters/components/SectionFilterList.jsx:24
+msgid "Superdesk Product Id"
+msgstr "Numéro ID de produit Superdesk"
+
+#: assets/products/components/EditProduct.jsx:128
+msgid "Test product id"
+msgstr "Test ID du produit"
+
+#: assets/products/components/EditProduct.jsx:142
+#: assets/section-filters/components/EditSectionFilter.jsx:70
+msgid "Test query"
+msgstr "Requête de test"
+
+#: assets/products/components/EditProduct.jsx:147
+#: assets/products/components/ProductList.jsx:26
+msgid "Planning Item Query"
+msgstr "Requête d'élément de planification"
+
+#: assets/products/components/EditProduct.jsx:156
+msgid "Test Planning Item query"
+msgstr "Test d'élément de planification"
+
+#: assets/products/components/Products.jsx:59
+msgid "Would you like to delete product: {{name}}"
+msgstr "Voulez-vous supprimer le produit: {{name}}"
+
+#: assets/section-filters/actions.js:76
+msgid "Section Filter updated successfully"
+msgstr "Filtre de section mis à jour avec succès"
+
+#: assets/section-filters/actions.js:78
+msgid "Section Filter created successfully"
+msgstr "Filtre de section créé avec succès"
+
+#: assets/section-filters/actions.js:100
+msgid "Section Filter deleted successfully"
+msgstr "Filtre de section supprimé avec succès"
+
+#: assets/section-filters/components/EditSectionFilter.jsx:19
+msgid "New Filter"
+msgstr "Nouveau filtre"
+
+#: assets/section-filters/components/EditSectionFilter.jsx:56
+msgid "Test Superdesk Product id"
+msgstr "Test Superdesk Identifiant du produit"
+
+#: assets/section-filters/components/SectionFilters.jsx:55
+msgid "Would you like to delete Section Filter: {{name}}"
+msgstr "Souhaitez-vous supprimer le filtre de section: {{name}}"
+
+#: assets/section-filters/components/SectionFiltersApp.jsx:27
+msgid "Section Filter"
+msgstr "Filtre de section"
+
+#: assets/tests/utils.spec.js:5
+msgid "foo"
+msgstr "foo"
+
+#: assets/tests/utils.spec.js:9
+msgid "hello {{ name }}"
+msgstr "bonjour {{ name }} "
+
+#: assets/ui/components/ArticleAuthor.jsx:10
+msgid "By "
+msgstr "Par"
+
+#: assets/ui/components/ArticleAuthor.jsx:15
+msgid "in {{ located}}"
+msgstr "dans {{ located }}"
+
+#: assets/ui/components/ArticleAuthor.jsx:18
+msgid "on"
+msgstr "sur"
+
+#: assets/ui/components/ArticleEmbargoed.jsx:14
+msgid "Embargo: {{ date }}"
+msgstr "Embargo: {{ date }}"
+
+#: assets/ui/components/ArticleVideo.jsx:12
+msgid "Your browser does not support HTML5 video"
+msgstr "Votre navigateur ne supporte pas la vidéo HTML5"
+
+#: assets/ui/components/Preview.jsx:10
+#: assets/wire/components/filters/NavCreatedPicker.jsx:27
+msgid "Published"
+msgstr "Publié"
+
+#: assets/user-profile/actions.js:72 assets/users/actions.js:86
+msgid "User updated successfully"
+msgstr "Utilisateur mis à jour avec succès"
+
+#: assets/user-profile/actions.js:75
+msgid "Please reload the page in order to change language."
+msgstr "Veuillez recharger la page pour changer de langue."
+
+#: assets/user-profile/actions.js:110
+msgid "Topic deleted successfully"
+msgstr "Sujet supprimé avec succès"
+
+#: assets/user-profile/actions.js:142
+msgid "Topic was shared successfully."
+msgstr "Le sujet a été partagé avec succès."
+
+#: assets/user-profile/components/profile/UserProfile.jsx:28
+msgid "Please provide first name"
+msgstr "S'il vous plaît fournir le prénom"
+
+#: assets/user-profile/components/profile/UserProfile.jsx:33
+msgid "Please provide last name"
+msgstr "S'il vous plaît fournir le nom de famille"
+
+#: assets/user-profile/components/profile/UserProfile.jsx:65
+#: assets/users/components/EditUser.jsx:32
+msgid "First Name"
+msgstr "Prénom"
+
+#: assets/user-profile/components/profile/UserProfile.jsx:74
+#: assets/users/components/EditUser.jsx:39
+msgid "Last Name"
+msgstr "Nom de famille"
+
+#: assets/user-profile/components/profile/UserProfile.jsx:83
+#: assets/users/components/EditUser.jsx:46
+#: assets/users/components/UsersList.jsx:24
+msgid "Email"
+msgstr "Email"
+
+#: assets/user-profile/components/profile/UserProfile.jsx:92
+#: assets/users/components/EditUser.jsx:53
+#: assets/users/components/UsersList.jsx:25
+msgid "Phone"
+msgstr "Téléphone"
+
+#: assets/user-profile/components/profile/UserProfile.jsx:101
+#: assets/users/components/EditUser.jsx:60
+#: assets/users/components/UsersList.jsx:26
+msgid "Mobile"
+msgstr "Mobile"
+
+#: assets/user-profile/components/profile/UserProfile.jsx:110
+#: assets/users/components/EditUser.jsx:67
+#: assets/users/components/UsersList.jsx:27
+msgid "Role"
+msgstr "Rôle"
+
+#: assets/user-profile/components/profile/UserProfile.jsx:119
+msgid "Receive notifications via email"
+msgstr "Recevoir des notifications par email"
+
+#: assets/user-profile/components/profile/UserProfile.jsx:127
+msgid "Language"
+msgstr "La langue"
+
+#: assets/user-profile/components/profile/UserProfile.jsx:149
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+#: assets/user-profile/components/topics/FollowedTopics.jsx:79
+msgid "Edit"
+msgstr "Modifier"
+
+#: assets/user-profile/components/topics/FollowedTopics.jsx:92
+msgid "Would you like to delete {{topicType}} {{name}}?"
+msgstr "Voulez-vous supprimer {{topicType}} {{name}}?"
+
+#: assets/user-profile/components/UserProfileApp.jsx:34
+msgid "My Profile"
+msgstr "Mon profil"
+
+#: assets/user-profile/components/UserProfileApp.jsx:142
+msgid "Logout"
+msgstr "Se déconnecter"
+
+#: assets/users/actions.js:88
+msgid "User created successfully"
+msgstr "Utilisateur créé avec succès"
+
+#: assets/users/actions.js:105
+msgid "Reset password token is sent successfully"
+msgstr "Le jeton de réinitialisation du mot de passe est envoyé avec succès"
+
+#: assets/users/actions.js:123
+msgid "User deleted successfully"
+msgstr "Utilisateur supprimé avec succès"
+
+#: assets/users/components/EditUser.jsx:74
+#: assets/users/components/UsersList.jsx:28
+msgid "User Type"
+msgstr "Type d'utilisateur"
+
+#: assets/users/components/EditUser.jsx:91
+#: assets/users/components/UserListItem.jsx:19
+msgid "Approved"
+msgstr "Approuvée"
+
+#: assets/users/components/EditUser.jsx:103
+msgid "Company Expiry Alert"
+msgstr "Alerte d'expiration de l'entreprise"
+
+#: assets/users/components/EditUser.jsx:114
+msgid "Reset Password"
+msgstr "réinitialiser le mot de passe"
+
+#: assets/users/components/UserListItem.jsx:19
+msgid "Needs Approval"
+msgstr "Besoin d'approbation"
+
+#: assets/users/components/Users.jsx:55
+msgid "Would you like to delete user: {{name}}?"
+msgstr "Voulez-vous supprimer l'utilisateur: {{name}}?"
+
+#: assets/users/utils.js:4
+msgid "Administrator"
+msgstr "Administrateur"
+
+#: assets/users/utils.js:5
+msgid "Internal"
+msgstr "Interne"
+
+#: assets/users/utils.js:6
+msgid "Public"
+msgstr "Publique"
+
+#: assets/users/utils.js:7
+msgid "Account Management"
+msgstr "Gestion de compte"
+
+#: assets/wire/actions.js:118
+msgid "By: {{ byline }}"
+msgstr "Par: {{ byline }}"
+
+#: assets/wire/actions.js:119 assets/wire/components/PreviewMeta.jsx:36
+msgid "Source: {{ source }}"
+msgstr "Source: {{ source }}"
+
+#: assets/wire/components/AgendaLinks.jsx:46
+msgid "Agenda"
+msgstr "Ordre du jour"
+
+#: assets/wire/components/AgendaLinks.jsx:48
+msgid "Open agenda item \"{{ name }}\""
+msgstr "Point de l'ordre du jour \"{{ name }}\""
+
+#: assets/wire/components/DownloadItemsModal.jsx:33
+msgid "Download Items"
+msgstr "Télécharger des articles"
+
+#: assets/wire/components/DownloadItemsModal.jsx:37
+msgid "Format"
+msgstr "Format"
+
+#: assets/wire/components/filters/FilterGroup.jsx:20
+msgid "Show more"
+msgstr "Montre plus"
+
+#: assets/wire/components/filters/FilterGroup.jsx:28
+msgid "Show less"
+msgstr "Montrer moins"
+
+#: assets/wire/components/filters/FiltersTab.jsx:99
+msgid "Clear filters"
+msgstr "Effacer les filtres"
+
+#: assets/wire/components/filters/NavCreatedPicker.jsx:36
+msgid "From"
+msgstr "De"
+
+#: assets/wire/components/filters/NavCreatedPicker.jsx:44
+msgid "To"
+msgstr "À"
+
+#: assets/wire/components/filters/NavigationTab.jsx:30
+msgid "All"
+msgstr "Toute"
+
+#: assets/wire/components/ItemVersion.jsx:21
+msgid "characters"
+msgstr "des lettres"
+
+#: assets/wire/components/ListItemNextVersion.jsx:44
+msgid "Next version"
+msgstr "Version suivante"
+
+#: assets/wire/components/ListItemPreviousVersions.jsx:40
+msgid "Loading"
+msgstr "Chargement"
+
+#: assets/wire/components/ListItemPreviousVersions.jsx:59
+msgid "Previous versions"
+msgstr "Versions précédentes"
+
+#: assets/wire/components/NewsOnlyControl.jsx:11
+msgid "News only"
+msgstr "Nouvelles seulement"
+
+#: assets/wire/components/PreviewMeta.jsx:33
+msgid "News Value: {{ value }}"
+msgstr "Valeur de la nouvelle: {{ value }}"
+
+#: assets/wire/components/PreviewMeta.jsx:34
+msgid "Words:"
+msgstr "Mots:"
+
+#: assets/wire/components/PreviewMeta.jsx:35
+msgid "Characters:"
+msgstr "Des lettres"
+
+#: assets/wire/components/PreviewMeta.jsx:39
+msgid "{{ count }} previous versions"
+msgstr "{{ count }} versions précédentes"
+
+#: assets/wire/components/PreviewTags.jsx:31
+msgid "Content Type"
+msgstr "Type de contenu"
+
+#: assets/wire/components/SearchResultsInfo.jsx:48
+msgid "New events to load"
+msgstr "Nouveaux événements à charger"
+
+#: assets/wire/components/SearchResultsInfo.jsx:48
+msgid "New stories available to load"
+msgstr "Nouvelles histoires disponibles à charger"
+
+#: assets/wire/components/SearchResultsInfo.jsx:59
+msgid "search results for:"
+msgstr "Résultats de recherche pour:"
+
+#: assets/wire/components/SearchResultsInfo.jsx:71
+msgid "Save search to my events"
+msgstr "Enregistrer la recherche dans mes événements"
+
+#: assets/wire/components/SearchResultsInfo.jsx:79
+msgid "S"
+msgstr "S"
+
+#: assets/wire/components/SelectedItemsBar.jsx:47
+msgid "{{ count }} item(s) selected"
+msgstr "{{ count }} article (s) sélectionné (s)"
+
+#: assets/wire/components/TopicsTab.jsx:40
+msgid "Manage my {{name}}"
+msgstr "Gérer mon {{name}}"
+
+#: assets/wire/components/TopicsTab.jsx:42
+msgid "No {{name}} created."
+msgstr "Aucun {{name}} créé."
+
+#: assets/wire/components/WireListItem.jsx:137
+msgid "Show previous versions ({{ count }})"
+msgstr "Afficher les versions précédentes ({{ count }})"
+
+#: assets/wire/components/WireListItemEmbargoed.jsx:32
+msgid "embargo"
+msgstr "embargo"
+
+#: assets/wire/components/WirePreview.jsx:65
+msgid "Follow story"
+msgstr "Suivre l'histoire"
