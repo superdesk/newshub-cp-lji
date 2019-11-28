@@ -6,7 +6,6 @@
 # Translators:
 # Simon Peacock <simon.peacock@gmail.com>, 2019
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Newsroom 1.0\n"
